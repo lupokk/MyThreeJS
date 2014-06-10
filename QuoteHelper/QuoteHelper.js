@@ -1,5 +1,5 @@
 /**
- * @author Alberto Schiassi / http://github.com/WestLangley
+ * @author Alberto Schiassi / https://github.com/lupokk
  *
  * Creates quote for visualizing dimension
  *
