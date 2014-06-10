@@ -1,7 +1,7 @@
 /**
  * @author Alberto Schiassi / https://github.com/lupokk
  *
- * Creates quote for visualizing dimension
+ * Creates quote for displaying the size of an 3d object in technical drawing style
  *
  * Parameters:
  *  dir - Vector3
