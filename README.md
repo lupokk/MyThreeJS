@@ -3,7 +3,7 @@ MyThreeJS
 
 My ThreeJS is the repository in which there are utilities for threejs created by me. 
 
-The first utility is QuoteHepler for displaying the size of an 3d object in technical drawing style:
+The first utility is <b>QuoteHepler</b> for displaying the size of an 3d object in technical drawing style:
 
 
 <h3>Example:</h3>
