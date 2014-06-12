@@ -8,29 +8,6 @@ The first utility is QuoteHepler for displaying the size of an 3d object in tech
 
 <h3>Example:</h3>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-   <title>Test QuoteHelper</title>
-   <meta charset="utf-8">
-   <style>
-      body
-      {
-         font-family: Monospace;
-         background-color: #f0f0f0;
-         margin: 0px;
-         overflow: hidden;
-      }
-   </style>
-</head>
-<body>
-
-   <script src="https://rawgithub.com/mrdoob/three.js/master/build/three.js"></script>
-   <script src="https://rawgithub.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"></script>
-   <script src="https://rawgithub.com/mrdoob/three.js/master/examples/js/renderers/SoftwareRenderer.js"></script>
-   <script src="https://rawgithub.com/mrdoob/three.js/master/examples/fonts/helvetiker_regular.typeface.js"></script>
-   <script src="QuoteHelper.js"></script>
-   <script>
 
       var container;
 
@@ -117,8 +94,4 @@ The first utility is QuoteHepler for displaying the size of an 3d object in tech
 
          renderer.render(scene, camera);
       }
-
-   </script>
-</body>
-</html>
 
